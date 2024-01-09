@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203321579849",
+    "project_id": "fir-injetpackcompose",
+    "storage_bucket": "fir-injetpackcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203321579849:android:dd6e329f188e143d73a298",
+        "android_client_info": {
+          "package_name": "com.sadeeq.encoders.firebaseinjetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYVXZ0rM2lMjmTTygfM3e4uWqy60PUWac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
